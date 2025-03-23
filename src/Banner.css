@@ -1,10 +1,12 @@
 #banner-container {
     display: flex;
+    justify-content: space-around;
 }
 
 #title-container {
     display: flex;
     flex-direction: column;
+    
 }
 
 #banner-title {
