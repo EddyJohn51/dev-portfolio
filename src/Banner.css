@@ -1,0 +1,16 @@
+#banner-container {
+    display: flex;
+}
+
+#title-container {
+    display: flex;
+    flex-direction: column;
+}
+
+#banner-title {
+    margin-bottom: 0.01rem;
+}
+
+#banner-subtitle {
+    margin-top: 0.25rem;
+}
