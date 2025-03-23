@@ -1,0 +1,16 @@
+#initial-component {
+    height: 100vh;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#initial-title {
+    margin-bottom: 0.01rem;
+}
+
+#initial-subtitle {
+    margin-top: 0.25rem;;
+}
